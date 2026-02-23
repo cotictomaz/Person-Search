@@ -6,7 +6,7 @@ This project is designed to be easily reproducible and evaluated using Google Co
 - RUN_EVALUATION - whether to run the evaluation loops. If False precomputed metrics are printed.
 - RUN_EFFICIENCY_BENCHMARKING - whether to run the efficiency benchmarking (FPS).
 - USE_PRETRAINED_MODELS - whether to load the already trained weights.
-- USE_PRECOMPUTED_RESULTS - whether to load the results I computed. This allows to visualize some additional performance comparison between models and model errors.
+- USE_PRECOMPUTED_RESULTS - whether to load the results I computed, greatly recomended to be set to true. This allows to visualize some additional performance comparison between models, model errors and inference samples.
 
 The loading of model weights and precomputed results is handled internally in the notebook. However I also provide the download links at the end of this Readme.md.
 
