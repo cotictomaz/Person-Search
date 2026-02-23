@@ -68,7 +68,9 @@ These files contain the raw evaluation outputs and metrics generated during test
 * **ConvNeXt-Base:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCNk37s9Rr9S4CTtV3PlssXAfEuDcIo0lMriixFApGIOT0?e=WxPDJQ)
 * **ConvNeXt-Small:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBQlC55jLUMRo_-nJcXQU0AAWY0HKrQNAEhrjG42J2ZXqg?e=akS8ho)
 * **ConvNeXt-Tiny:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQDPzvfKL3eiSJYSGZmlZEAnAeQ062GiwXJpdalFNDevcWg?e=wS4bu1)
+  
 Cross-camera setting:
+
 * **ConvNeXt-Base:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBMZPJhh7YQS5gI7qF25rLTAbeDHnCLZGVLu3r5Pf7sUFM?e=XnZIVw)
 * **ConvNeXt-Small:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBgXfACLSUbSKXIg3DQ8IuNAUgQr_kiAy2b3FKl1PyOJjw?e=ZLO1Bd)
 * **ConvNeXt-Tiny:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCAzC0OKxHpSKzBmj5VrI50AfLB2YGv2oSmtb-Xs9tlFrU?e=Jk63vq)
