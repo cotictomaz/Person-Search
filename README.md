@@ -59,15 +59,19 @@ The primary question of this project is: **Is such a large, computationally expe
 The model weights and precomputed prediction files for all three backbones are provided below.
 
 ### Trained Weights
-* **ConvNeXt-Base:** [Download weights (.pth)](#insert-link-here)
-* **ConvNeXt-Small:** [Download weights (.pth)](#insert-link-here)
-* **ConvNeXt-Tiny:** [Download weights (.pth)](#insert-link-here)
+* **ConvNeXt-Base:** [Download weights (.pth)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQA5UonSX75lSYAxlC4s6daAAcE-RzuZ5epZry77-plG3CI?e=hUNup8)
+* **ConvNeXt-Small:** [Download weights (.pth)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCIFjBwT6ofS6dKyWIWoWFfAT4O7PprdnP7weMsKl6LvmU?e=BKjfD6)
+* **ConvNeXt-Tiny:** [Download weights (.pth)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCNfblGti6CSawh8HUZx2bHAfCgtb8wnWToHNlVfT_eiCI?e=np6p74)
 
 ### Precomputed Results
 These files contain the raw evaluation outputs and metrics generated during testing.
-* **ConvNeXt-Base:** [Download results (.json)](#insert-link-here)
-* **ConvNeXt-Small:** [Download results (.json)](#insert-link-here)
-* **ConvNeXt-Tiny:** [Download results (.json)](#insert-link-here)
+* **ConvNeXt-Base:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCNk37s9Rr9S4CTtV3PlssXAfEuDcIo0lMriixFApGIOT0?e=WxPDJQ)
+* **ConvNeXt-Small:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBQlC55jLUMRo_-nJcXQU0AAWY0HKrQNAEhrjG42J2ZXqg?e=akS8ho)
+* **ConvNeXt-Tiny:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQDPzvfKL3eiSJYSGZmlZEAnAeQ062GiwXJpdalFNDevcWg?e=wS4bu1)
+Cross-camera setting:
+* **ConvNeXt-Base:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBMZPJhh7YQS5gI7qF25rLTAbeDHnCLZGVLu3r5Pf7sUFM?e=XnZIVw)
+* **ConvNeXt-Small:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQBgXfACLSUbSKXIg3DQ8IuNAUgQr_kiAy2b3FKl1PyOJjw?e=ZLO1Bd)
+* **ConvNeXt-Tiny:** [Download results (.json)](https://liveunibo-my.sharepoint.com/:u:/g/personal/tomaz_cotic_studio_unibo_it/IQCAzC0OKxHpSKzBmj5VrI50AfLB2YGv2oSmtb-Xs9tlFrU?e=Jk63vq)
 
 ---
 *Developed as part of [Machine Learning for Computer Vision] - [Tomaž Cotič/ 0001180192]*
