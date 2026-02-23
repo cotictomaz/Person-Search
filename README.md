@@ -8,6 +8,7 @@ This project is designed to be easily reproducible and evaluated using Google Co
 - USE_PRETRAINED_MODELS - whether to load the already trained weights.
 - USE_PRECOMPUTED_RESULTS - whether to load the results I computed. This allows to visualize some additional performance comparison between models and model errors.
 
+The loading of model weights and precomputed results is handled internally in the notebook. However I also provide the download links at the end of this Readme.md.
 
 ## Project Overview
 This project addresses the **Person Search** task on the PRW dataset. Given a query person and a gallery of scenes, the system must detect people in the scenes and rank them based on their similarity to the query. The ultimate goal is to rank the true query person at the top of the retrieved gallery scenes.
