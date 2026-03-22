@@ -35,9 +35,9 @@ The primary question of this project is: **Is such a large, computationally expe
 
 | Backbone | mAP (%) | Rank-1 (%) | Cross-Camera mAP (%) | Cross-Camera Rank-1 (%) |
 | :--- | :---: | :---: | :---: | :---: |
-| **ConvNeXt-Base** | 56.52% | 91.44% | 54.38% | 79.14% |
-| **ConvNeXt-Small** | 56.03% | 90.28% | 53.92% | 81.04% |
-| **ConvNeXt-Tiny** | 50.99% | 88.92% | 48.55% | 76.96% |
+| **ConvNeXt-Base** | 56.52 | 91.44 | 54.38 | 79.14 |
+| **ConvNeXt-Small** | 56.03 | 90.28 | 53.92 | 81.04 |
+| **ConvNeXt-Tiny** | 50.99 | 88.92 | 48.55 | 76.96 |
 
 ### Efficiency Metrics
 
